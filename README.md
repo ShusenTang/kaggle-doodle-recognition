@@ -1,5 +1,5 @@
 # Quick, Draw! Doodle Recognition Challenge
-本仓库是我在kaggle比赛[Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition)的所有代码（带注释），有兴趣的可以看看，顺便给个star。另外本次比赛的详细总结（包括大佬们的top方案分析)见可[我的博客](http://tangshusen.me/)。    
+本仓库是我在kaggle比赛[Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition)的所有代码（带注释），有兴趣的可以看看，顺便给个star。另外本次比赛的详细总结（包括大佬们的top方案分析)见可[我的博客](http://tangshusen.me/2018/12/05/kaggle-doodle-reco/#more)。    
 
 这个比赛于12.05早上结束，最终结果是排在69/1316、铜牌，离银牌区差4名，还是比较遗憾的。不过这是我第一次花大量时间和精力在图像分类问题上，作为一个novice能拿到牌还算满意。
 
